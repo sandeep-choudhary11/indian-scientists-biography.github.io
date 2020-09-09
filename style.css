@@ -1,0 +1,45 @@
+
+ #typed{
+  color: black;
+  align-items: center;
+  
+  font-size: 2em;
+  text-transform: uppercase;
+
+
+
+ }
+ a{
+ 	list-style: none;
+ 	text-decoration: none;
+
+
+ }
+ #mobile-demo{
+ 	background-color: white;
+
+ }
+ 
+input{
+	align-items: center;
+	text-align: center;
+}
+ .responsive-img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+ @media(max-width:800){
+
+ 	#img{
+ 		height: auto;
+ 	}
+ }
+
+ *{
+ 	padding: 0px;
+ 	margin: 0px;
+ }
+ 
+
